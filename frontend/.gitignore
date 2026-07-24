@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+dist-tsnode
+*.tsbuildinfo
+*.local
+.vite
+test-results
+playwright-report
+playwright/.cache
+
+# Local demo recordings (videos / generated PDFs) — not source
+recordings
